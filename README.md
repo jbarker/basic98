@@ -18,8 +18,8 @@ Download
 * [basic98.zip][zip]
 * [basic98.tar.gz][tar]
 
-[zip]: /jbarker/basic98/zipball/master
-[tar]: /jbarker/basic98/tarball/master
+[zip]: https://github.com/jbarker/basic98/zipball/master
+[tar]: https://github.com/jbarker/basic98/tarball/master
 
 
 Release History
